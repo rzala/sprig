@@ -1,4 +1,4 @@
-module github.com/Masterminds/sprig/v3
+module github.com/rzala/sprig/v3
 
 go 1.13
 
